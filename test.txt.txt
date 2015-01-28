@@ -1,1 +1,1 @@
-F O R S E N B O Y S
+{"filter":false,"title":"test.txt.txt","tooltip":"/test.txt.txt","undoManager":{"mark":-1,"position":-1,"stack":[]},"ace":{"folds":[],"scrolltop":0,"scrollleft":0,"selection":{"start":{"row":1,"column":0},"end":{"row":1,"column":0},"isBackwards":false},"options":{"guessTabSize":true,"useWrapMode":false,"wrapToView":true},"firstLineState":0},"timestamp":1422157266275,"hash":"67a5a6fc464d39e20e93b53f49c2f2103ef1aaf2"}
